@@ -2,7 +2,21 @@
 
 
 - Person indicates build
-- apps 
+- apps
+
+## ⚡ Frontend Development
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vue,nuxt,pinia,vite,js,ts,html,css,tailwind,bootstrap,figma,postman&perline=12" />
+  </a>
+</p>
+
+* **Frameworks:** Reactive UIs with **Vue 3** and SSR with **Nuxt**.
+* **State Management:** Scalable stores using **Pinia**.
+* **Build Tools:** Lightning-fast development with **Vite**.
+* **Styling:** Modern layouts with **Tailwind CSS** and **Vuetify**.
+
 
 ## 🚀 Tech Stack
 
