@@ -6,6 +6,20 @@
 
 - Build App Simulator
 
+<svg viewBox="0 0 200 50">
+  <path fill="none" stroke="#007AFF" stroke-width="2">
+    <animate 
+      attributeName="d" 
+      dur="0.8s" 
+      repeatCount="indefinite"
+      values="M10,25 Q50,25 100,25 T190,25;
+              M10,25 Q50,5 100,25 T190,25;
+              M10,25 Q50,45 100,25 T190,25;
+              M10,25 Q50,25 100,25 T190,25" />
+  </path>
+</svg>
+
+
 
 -------
 
