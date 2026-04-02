@@ -1,6 +1,6 @@
 
 
-## 🚀 My Comprehensive Tech Stack
+### App Sim Builds its legacy
 
 <p align="left">
   <a href="https://skillicons.dev">
