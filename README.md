@@ -19,9 +19,6 @@
 
 ---
 
-### 🧰 Categorized Breakdown
 
-* **Frontend & Design:** HTML5, CSS3, JavaScript, TypeScript, React, Next.js, Vue, Nuxt, Vite, Pinia, Figma.
-* **Backend & Systems:** PHP (Laravel), Python (Django, FastAPI, Flask), Java (Spring), Node.js, Express.
-* **Data & AI:** TensorFlow, PyTorch, Scikit-Learn, Pandas, NumPy, OpenCV.
-* **Infrastructure & Tools:** MongoDB, PostgreSQL, Redis, Docker, Postman.
+
+# Focus on The Sim
