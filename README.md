@@ -17,5 +17,3 @@
 ---
 
 
-
-# Focus on The Sim
