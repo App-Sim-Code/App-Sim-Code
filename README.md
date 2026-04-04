@@ -8,7 +8,7 @@ Build App
 
    - Network
       - Person
-         - Terminal
+         - Sim
 
 
 
