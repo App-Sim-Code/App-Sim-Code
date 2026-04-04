@@ -25,6 +25,14 @@
   <text x="0" y="20" fill="#FFF" font-family="monospace">JavaScript: LVL 85</text>
 </svg>
 
+<svg width="400" height="80" xmlns="[http://www.w3.org/2000/svg](http://www.w3.org/2000/svg)">
+  <rect width="400" height="80" fill="#000" rx="5" />
+  <text x="10" y="30" fill="#0F0" font-family="Courier">user@git:~$ status_update --full</text>
+  <text x="10" y="55" fill="#FFF" font-family="Courier">
+    [■■■■■■■■■□□□] 75%
+    <animate attributeName="opacity" values="0;1;0" dur="1.5s" repeatCount="indefinite" />
+  </text>
+</svg>
 
 
 -------
