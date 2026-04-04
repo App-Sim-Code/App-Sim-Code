@@ -4,11 +4,12 @@
 
 Build App
 
-- Building Network
+- Building App Sim
 
-   - Network
-   - Person
-   - Sim
+   
+   - App Sim
+   - XML
+   - Lucid 
 
 
 
